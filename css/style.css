@@ -1,0 +1,8 @@
+.bg-jumbotron {
+    background: url(/img/affd16fd5264cab9197da4cd1a996f820e601ee4.png)
+    center no-repeat;
+    background-size: cover;
+}
+.buy-button {
+    font-size: 14px!important;
+}
